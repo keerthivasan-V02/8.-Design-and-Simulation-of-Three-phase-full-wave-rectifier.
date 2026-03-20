@@ -43,7 +43,11 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-20 at 8 46 45 AM](https://github.com/user-attachments/assets/6a8a66da-f041-441e-b8dc-adfe5b440215)
 
 ## Output
 
+![WhatsApp Image 2026-03-20 at 8 46 46 AM](https://github.com/user-attachments/assets/6e131854-ca36-441c-a039-6d494da25f60)
+
 ## Result
+Thus,Design-and-Simulation-of-Three-phase-full-wave-rectifier is verified
